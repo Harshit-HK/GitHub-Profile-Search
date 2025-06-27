@@ -4,6 +4,9 @@
 
 This is a simple web application built with React.js that allows users to search for GitHub profiles by username and view detailed profile information.
 
+🚀 This project is live here: [GitHub Profile Search - Live Link](https://git-hub-profile-search-lake.vercel.app/)
+
+
 ## Features
 
 - **Search:** Users can enter a GitHub username and click a button to search for the profile.
